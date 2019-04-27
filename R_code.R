@@ -2,9 +2,9 @@
 
 
   #Read CSV file
-  addsToCart <- read.csv("C:/Users/Satyam/Downloads/addsToCart.csv")
+  addsToCart <- read.csv("C:/Users/Saksh/Downloads/addsToCart.csv")
   View(addsToCart)
-  sessionCounts <- read.csv("C:/Users/Satyam/Downloads/sessionCounts.csv")
+  sessionCounts <- read.csv("C:/Users/Saksh/Downloads/sessionCounts.csv")
   View(sessionCounts)
   
   #check if there is any duplicate record
